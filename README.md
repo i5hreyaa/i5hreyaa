@@ -3,8 +3,6 @@
 💻 Computer Science student at ABES Institute of Technology<br/>
 🖱️Front-end Developer<br/>
 🎥 Love exploring and creating new atuff<br/> 
-[LinkedIn](www.linkedin.com/in/shreya-bharadwaj-93834b2a5)<br/>
-
 
 
 # 💻 Tech Stack:
