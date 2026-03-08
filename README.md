@@ -2,7 +2,7 @@
 
 💻 Computer Science student at ABES Institute of Technology<br/>
 🖱️Front-end Developer<br/>
-🎥 Love exploring and creating new atuff<br/> 
+🎥 Love exploring and creating new stuff<br/> 
 
 
 # 💻 Tech Stack:
