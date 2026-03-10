@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shreya Bharadwaj</h1>
+<!-- Animated Intro -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shreya+Bharadwaj;Engineering+Student;Developer+%7C+Creative+Technologist" />
+</p>
+
 <h3 align="center">🚀 Engineering Student | 💻 Developer | 🎨 Creative Tech Enthusiast</h3>
 
 <p align="center">
@@ -20,7 +25,7 @@ Building aesthetic tech products while learning everyday.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=i5hreyaa&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=i5hreyaa&theme=tokyonight_duo&hide_border=true"/>
 
 </p>
 
@@ -30,9 +35,9 @@ Building aesthetic tech products while learning everyday.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=i5hreyaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=i5hreyaa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i5hreyaa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i5hreyaa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -65,7 +70,6 @@ Building aesthetic tech products while learning everyday.
 
 ---
 
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -90,10 +94,18 @@ Building aesthetic tech products while learning everyday.
 
 # 💡 Daily Motivation
 
-> "Consistency beats motivation."
+> "It's not hard.You just need to begin."
 
 Keep building. Keep learning. 🚀
 
 ---
 
 ⭐ From [Shreya Bharadwaj](https://github.com/i5hreyaa)
+
+---
+
+<!-- Snake Animation -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
