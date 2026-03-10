@@ -29,8 +29,6 @@ Building aesthetic tech products while learning everyday.
 
 </p>
 
----
-
 
 ---
 
